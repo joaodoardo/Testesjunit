@@ -1,0 +1,6 @@
+IDE: IntelliJ
+Build system: Maven
+JDK: 17
+JUnit: 5.8.1
+
+mvn -Dtest=SequenciaDNATeste test
